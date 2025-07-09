@@ -72,9 +72,3 @@ A aplicação será aberta automaticamente no seu navegador padrão. Clique no b
 - `.gitignore`: Especifica arquivos e pastas que devem ser ignorados pelo Git.
 - `books_scraper.log`: Arquivo de log gerado pela execução do scraper (configurado em `scraper.py`). Recomenda-se adicionar este arquivo ao `.gitignore`.
 - `README.md`: Este arquivo, fornecendo informações sobre o projeto.
-
-## Licença
-
-Este projeto é distribuído sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes (se aplicável, ou defina uma licença).
-(Nota: Adicionar um arquivo LICENSE se desejar formalizar a licença)
-```
